@@ -2,15 +2,6 @@
 
 <div align="center">
 
-```
-██████╗  ██████╗ ██╗  ██╗██╗    ██╗ █████╗ ██████╗ ███████╗
-██╔══██╗██╔═══██╗╚██╗██╔╝██║    ██║██╔══██╗██╔══██╗██╔════╝
-██████╔╝██║   ██║ ╚███╔╝ ██║ █╗ ██║███████║██████╔╝█████╗  
-██╔══██╗██║   ██║ ██╔██╗ ██║███╗██║██╔══██║██╔══██╗██╔══╝  
-██████╔╝╚██████╔╝██╔╝ ██╗╚███╔███╔╝██║  ██║██║  ██║███████╗
-╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-```
-
 </div>
 
 <p align="center">
@@ -32,20 +23,6 @@
 ## ⚡ STACK TECNOLÓGICO
 
 
-<div align="center">
-
-| **TECNOLOGÍA** | **DESCRIPCIÓN** | **STATUS** |
-|:---:|:---:|:---:|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | Interfaz reactiva y componentizada | ![Status](https://img.shields.io/badge/🟢-ACTIVO-brightgreen) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | Tipado estático para código robusto | ![Status](https://img.shields.io/badge/🟢-ACTIVO-brightgreen) |
-| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | Framework CSS utilitario | ![Status](https://img.shields.io/badge/🟢-ACTIVO-brightgreen) |
-| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | Build tool ultra-rápido | ![Status](https://img.shields.io/badge/🟢-ACTIVO-brightgreen) |
-| ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) | Tokens de autenticación segura | ![Status](https://img.shields.io/badge/🔒-SEGURO-red) |
-| ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white) | Cliente HTTP para APIs | ![Status](https://img.shields.io/badge/🌐-CONECTADO-blue) |
-
-</div>
-
----
 
 ## 🎯 MÓDULOS DE PENETRACIÓN
 
